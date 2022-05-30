@@ -83,5 +83,6 @@
      }
     .swiper-slide-active{
         filter: blur(0px);
+        background: #fff;
     }
      
